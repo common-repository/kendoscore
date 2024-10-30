@@ -1,0 +1,59 @@
+KendoScore Fonts
+
+The perpose of KendoScore fonts are to show scores of Kendo matches. This font includes only 12 fonts. Which are, for Kote, Men, Do, Tsuki, Hansoku circle, Hansoku triangle, and Circle, in english and japanese.
+
+KendoScore includes fonts with the following UTF-16 code.
+
+0x0044
+0x0048
+0x004b
+0x004d
+0x0054
+0x25b2
+0x25cb
+0x30b3
+0x30c4
+0x30c9
+0x30e1
+0x53cd
+
+The KendoScore fonts are a font family based on the IPA Mincho fonts ( http://ipafont.ipa.go.jp/ ).
+
+
+---------------
+Licence
+---------------
+
+The IPA Font Licence Agreement v1.0 requires derived program to be licenced under the same agreement. Thus, KendoScore Font is also licensed under the same agreement.
+
+http://ipafont.ipa.go.jp/ipa_font_license_v1.html#LicenceEng
+
+
+Modification to IPA Mincho Fonts
+
+Reduced size and add circle to 0x0044, 0x0048, 0x004b, 0x004d, 0x0054, 0x30b3, 0x30c9, 0x30c4, 0x30e1, 0x53cd
+
+0x25cb(circle) is unchanged.
+reduced size of 0x25b2(triangle).
+
+
+---------------
+How to replace KendoScore to IPA Mincho Fonts
+---------------
+
+The IPA Font Licence Agreement v1.0 requires derived program to provide information about replacing it to IPA fonts.
+
+1. Uninstall KendoScore fonts.
+2. Download and install IPA Mincho fonts.
+
+
+---------------
+Use and Redistribution
+---------------
+
+You can use and redistribute KendoScore fonts under the IPA Font License Agreement v1.0.
+
+
+-----
+KendoScore is created by Akimichi Ogawa.
+Aug 2014

@@ -1,0 +1,7 @@
+@font-face {
+  font-family:kendoscore;
+  src: url(KendoScore.ttf);
+}
+.kendoscore {
+  font-family:kendoscore;
+}
